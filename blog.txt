@@ -4,6 +4,14 @@
 3.main branch-dev1-hihi~~asdf
 =======
 >>>>>>> parent of fe01ff8 (2nd commit)
+<<<<<<< Updated upstream
 sdfsd
 sdfsdd
 sdfsd
+=======
+
+sdfsdfs
+dsf
+sdfsdfs
+
+>>>>>>> Stashed changes
