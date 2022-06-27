@@ -1,3 +1,6 @@
 1.main branch-hello :)
+<<<<<<< HEAD
 2.main branch-hi~
 3.main branch-dev1-hihi~~asdf
+=======
+>>>>>>> parent of fe01ff8 (2nd commit)
