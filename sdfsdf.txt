@@ -1,4 +1,8 @@
 sdfdsf
 sdfdsf
 sdfdsf
+<<<<<<< HEAD
 sdfxcvvcxvcxvxc
+=======
+dfcvvbcxb
+>>>>>>> 22efe77e386182f2784d4a1582b14d56d3f0e43d
